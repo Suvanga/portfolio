@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Trophy, Award, Users, Shield, Rocket, Star } from 'lucide-react';
 
 export function AchievementsSection() {

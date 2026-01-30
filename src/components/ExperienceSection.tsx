@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Briefcase, Building2, GraduationCap, Calendar, MapPin, Sparkles } from 'lucide-react';
 
 export function ExperienceSection() {

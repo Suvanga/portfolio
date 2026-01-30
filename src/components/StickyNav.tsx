@@ -1,4 +1,4 @@
-import { motion, useScroll, useMotionValueEvent } from 'motion/react';
+import { motion, useScroll, useMotionValueEvent } from 'framer-motion';
 import { useState } from 'react';
 import { Home, Briefcase, Code, Award, Mail, FileDown, Menu, X } from 'lucide-react';
 

@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { FileText, GraduationCap, Linkedin, Github, Mail, Phone, Youtube, Facebook, Instagram, Twitter, Home, User, FolderOpen, Briefcase, Award } from 'lucide-react';
 
 export function Footer() {

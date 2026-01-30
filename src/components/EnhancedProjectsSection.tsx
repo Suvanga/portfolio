@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { ExternalLink, Github, Sparkles, DollarSign, TrendingUp, Brain, Bell, ShieldCheck } from 'lucide-react';
 
 export function EnhancedProjectsSection() {

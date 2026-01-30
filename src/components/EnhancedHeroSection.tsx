@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Sparkles, Brain, Code, Database, Mail, Github, Linkedin, ChevronDown, FileDown } from 'lucide-react';
 
 export function EnhancedHeroSection() {

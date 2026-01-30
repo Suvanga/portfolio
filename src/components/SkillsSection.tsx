@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Code2, Database, Cloud, Brain, Cpu, Network, Shield, Zap } from 'lucide-react';
 
 export function SkillsSection() {
